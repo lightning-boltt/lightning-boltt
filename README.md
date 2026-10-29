@@ -31,13 +31,13 @@ Currently learning
 - [ ] Learn data structures and algorithms<br>
 - [ ] Explore open-source contributions<br>
 - [ ] Build projects that go beyond following tutorials<br>
-
+<br>
 📊 GitHub Stats
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
-
+<br>
 🌐 Find Me Around the Internet
 <p>
   <a href="https://github.com/lightning-boltt">
