@@ -13,7 +13,7 @@ Hey! I'm an engineering student exploring the world of software development.<br>
 🧠 Interested in problem-solving, understanding how things work, and building useful stuff<br>
 🛠️ Trying to turn what I learn into actual projects instead of just watching tutorials<br>
 🎯 Long-term goal: become a better engineer, contribute to open source, and build things people find useful<br>
-
+<br>
 ⚙️ Tech Stack<br>
 What I know<br>
 <p>
