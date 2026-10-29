@@ -6,16 +6,16 @@ Hey, I'm Aayush Sharma 👋<br>
 
 </div>
 
-🧑‍💻 About Me
-Hey! I'm an engineering student exploring the world of software development.
-🐍 Started with Python, HTML & CSS
-🌱 Currently learning C, with C++ next on the roadmap
-🧠 Interested in problem-solving, understanding how things work, and building useful stuff
-🛠️ Trying to turn what I learn into actual projects instead of just watching tutorials
-🎯 Long-term goal: become a better engineer, contribute to open source, and build things people find useful
+🧑‍💻 About Me<br>
+Hey! I'm an engineering student exploring the world of software development.<br>
+🐍 Started with Python, HTML & CSS<br>
+🌱 Currently learning C, with C++ next on the roadmap<br>
+🧠 Interested in problem-solving, understanding how things work, and building useful stuff<br>
+🛠️ Trying to turn what I learn into actual projects instead of just watching tutorials<br>
+🎯 Long-term goal: become a better engineer, contribute to open source, and build things people find useful<br>
 
-⚙️ Tech Stack
-What I know
+⚙️ Tech Stack<br>
+What I know<br>
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML and CSS" />
 </p>
@@ -24,13 +24,13 @@ Currently learning
   <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++" />
 </p>
 
-🚀 What's on My Roadmap?
-Build useful Python projects and small automation tools
-Create and deploy my own portfolio website
-Get comfortable with C and C++ fundamentals
-Learn data structures and algorithms
-Explore open-source contributions
-Build projects that go beyond following tutorials
+🚀 What's on My Roadmap?<br>
+Build useful Python projects and small automation tools<br>
+Create and deploy my own portfolio website<br>
+Get comfortable with C and C++ fundamentals<br>
+Learn data structures and algorithms<br>
+Explore open-source contributions<br>
+Build projects that go beyond following tutorials<br>
 
 📊 GitHub Stats
 <div align="center">
