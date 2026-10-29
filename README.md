@@ -5,9 +5,9 @@ Hey, I'm Aayush Sharma 👋<br>
 
 
 </div>
-
+<br>
 🧑‍💻 About Me<br>
-Hey! I'm an engineering student exploring the world of software development.<br>
+Hey! I'm an engineering student exploring the world of software development.<br><br>
 🐍 Started with Python, HTML & CSS<br>
 🌱 Currently learning C, with C++ next on the roadmap<br>
 🧠 Interested in problem-solving, understanding how things work, and building useful stuff<br>
