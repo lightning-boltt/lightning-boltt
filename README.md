@@ -1,6 +1,6 @@
 
  <div align="center">
-Hey, I'm Aayush Sharma 👋\n
+Hey, I'm Aayush Sharma 👋<br>
 🎓 Engineering Student · Developer in Progress
 
 
