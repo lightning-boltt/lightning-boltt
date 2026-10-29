@@ -25,12 +25,12 @@ Currently learning
 </p>
 
 🚀 What's on My Roadmap?<br>
-Build useful Python projects and small automation tools<br>
-Create and deploy my own portfolio website<br>
-Get comfortable with C and C++ fundamentals<br>
-Learn data structures and algorithms<br>
-Explore open-source contributions<br>
-Build projects that go beyond following tutorials<br>
+- [ ] Build useful Python projects and small automation tools<br>
+- [ ] Create and deploy my own portfolio website<br>
+- [ ] Get comfortable with C and C++ fundamentals<br>
+- [ ] Learn data structures and algorithms<br>
+- [ ] Explore open-source contributions<br>
+- [ ] Build projects that go beyond following tutorials<br>
 
 📊 GitHub Stats
 <div align="center">
@@ -43,7 +43,12 @@ Build projects that go beyond following tutorials<br>
   <a href="https://github.com/lightning-boltt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your other social links when ready -->
+ <a href="https://www.linkedin.com/in/aayush-sharma-b59637309/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+ <a href="https://www.instagram.com/lightning_boltt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <div align="center">
